@@ -7,7 +7,7 @@
 
 We do not collect any personal information from you such as your name, email, or date of birth.
 
-We do not share information with any third parties.
+We collect app diagnostic data for the sole purpose of improving the app experience and guiding feature development.
 
 #### Notification of Privacy Statement Changes
 
